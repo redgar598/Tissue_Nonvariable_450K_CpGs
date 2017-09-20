@@ -13,3 +13,5 @@ nonvariable_buccal<-y$CpG
 In a study of 25 blood samples @lmcewen ~108,000/114,000 blood invariable CpGs were non-variable. 
 
 In PAWS @redgar598 (buccals) 99.5% of the buccal non-variable CpGs are also invariable in PAWS
+
+In Lisa's training data (1032 buccals) the overlap was 98,850 out of 120,009 (82%).
