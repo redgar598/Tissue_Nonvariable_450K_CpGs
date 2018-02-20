@@ -1,6 +1,9 @@
 # Tissue_Nonvariable_450K_CpGs
 Scripts and lists of CpGs which are seen as non-variable in GEO data on the 450K.
 
+# Paper available here
+https://clinicalepigeneticsjournal.biomedcentral.com/articles/10.1186/s13148-017-0320-z
+
 # Download CpG List into R
 ```{r}
 library(RCurl)
